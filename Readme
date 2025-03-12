@@ -1,0 +1,12 @@
+# ATIVIDADE DA DISCIPLINA DE TECNICAS DE INTEGRAÇÃO DE SISTEMAS #
+
+# COMO EFETUAR EXECUTAR DO PROJETO #
+
+1 - Instalar o banco de dados PostgreSQL 
+2 - Rodar o aplicatico no Visual Studio Code
+3 - Usar um cliente para teste de APIs como: Insomnia, Postman e Thunderclient.
+4 - Efetuar o registro de usuario(nome, email e senha) com o link localhost:8080/auth/register
+5 - Apos registro do usuario sera gerado um token
+6 - Efetuar o login(email e senha) com o link localhost:8080/auth/login
+7 - Agora com autorização e autenticação atraves do JWT e Spring Security efetuar CRUD de Clientes
+ 
