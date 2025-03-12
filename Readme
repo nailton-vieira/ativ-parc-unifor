@@ -1,6 +1,16 @@
 # ATIVIDADE DA DISCIPLINA DE TECNICAS DE INTEGRAÇÃO DE SISTEMAS #
 
-# COMO EFETUAR EXECUTAR DO PROJETO #
+# TECNOLOGIAS UTILIZADAS #
+
+Visual Studio Code
+PostgreSQL
+API ViaCEP Correios
+Spring Boot 
+JWT 
+Spring Security
+
+
+# COMO EXECUTAR O PROJETO #
 
 1 - Instalar o banco de dados PostgreSQL 
 2 - Rodar o aplicatico no Visual Studio Code
